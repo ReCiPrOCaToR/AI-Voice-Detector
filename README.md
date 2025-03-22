@@ -3,13 +3,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
-这是一个浏览器扩展，用于检测视频中的AI合成语音，特别优化用于识别高质量AI配音（如微软云熙等）。
-
-## 屏幕截图
-
-![扩展界面截图](docs/images/screenshot.png)
-
-*注意：需要添加扩展界面的实际截图*
+写在前面：娱乐为主，效果很差（几乎没有效果hhh）
+这是一个完全由cursor开发的浏览器扩展，用于检测视频中的AI合成语音，特别优化用于识别高质量AI配音（如微软云熙等）。
 
 ## 功能特点
 
