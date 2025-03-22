@@ -33,7 +33,7 @@ git add .
 git commit -m "初始提交：AI语音检测器项目"
 
 # 添加远程仓库地址（替换YOUR_USERNAME为你的Github用户名）
-git remote add origin https://github.com/YOUR_USERNAME/AI-Voice-Detector.git
+git remote add origin https://github.com/ReCiPrOCaToR/AI-Voice-Detector.git
 
 # 推送到Github
 git push -u origin main
